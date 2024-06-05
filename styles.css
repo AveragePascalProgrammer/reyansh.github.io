@@ -1,0 +1,69 @@
+body{
+  padding-top: 25px 0px 25px 0px;
+}
+
+hr{
+  width: 95%;
+}
+.title {
+	color: #000;
+	text-align: center;
+	font-family: Sans-Serif;
+}
+
+
+.ansText{
+  font-size: 25px;
+  display: block;
+  width: 50vh;
+}
+
+.qText{ 
+  display:block;
+  font-size: 45px;
+  font-family: Sans-Serif;
+  text-align: left;
+}
+
+
+#question {
+  display: inline;
+  float: left;
+  width: 50%;
+  padding: 5px 0 0 5%;
+}
+#ans{
+  padding: 10px 0 10px 5%;
+  width: 40%;
+  float: right;
+}
+
+footer{
+  text-align: center;
+  background-color: #f9cfb4;
+  height: auto;
+}
+
+#footerDiv{
+  padding: 20px 0 20px 0;
+}
+#hr1 {
+  width: 100%;
+}
+#hr3{
+  margin: 0 auto;
+  width: 100%;
+}
+
+.icons{
+  padding: 50px 50px 50px 50px;
+}
+
+.icon{
+  display: inline;
+  transform: (0.9);
+}
+
+.icon:hover{
+  transform: scale(1.2);
+}
