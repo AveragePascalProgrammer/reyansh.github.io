@@ -65,7 +65,8 @@ footer{
 
 .icon{
   display: inline;
-  
+  height: 25vh;
+  width: auto;
   transform: (0.9);
 }
 
